@@ -153,7 +153,7 @@ If a problem is identified, the chain generates a corrected query, which is vali
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/akbarmohammadi70/text-to-sql-agent.git
 cd text-to-sql-agent
 ```
 
