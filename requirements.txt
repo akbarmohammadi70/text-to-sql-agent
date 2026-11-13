@@ -1,0 +1,18 @@
+
+# LangChain core framework
+langchain
+langchain-core
+langchain-community
+
+# OpenAI integration
+langchain-openai
+
+# SQL database toolkit
+sqlalchemy
+
+# SQLite database driver
+# Included in Python standard library; no installation required.
+# sqlite3
+
+# Environment variable management
+python-dotenv
